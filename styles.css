@@ -17,18 +17,17 @@ h4{
   text-align: justify;
 }
 
-
 .para-heading{
   font-family: 'Italianno', cursive;
   font-size: 40px;
 }
 
 .context{
-padding: 0 8%;
+padding: 1% 8%;
 margin-left:auto;
 margin-right: auto;
 letter-spacing: 2px;
-line-height: 1.6;
+line-height: 1.8;
 }
 
 .img-2{
@@ -65,7 +64,7 @@ left: 200px;
 
 .last-para{
   position: relative;
-  bottom: 30px;
+  bottom: 50px;
 }
 
 .radware{
